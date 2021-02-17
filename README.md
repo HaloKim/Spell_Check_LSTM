@@ -14,6 +14,7 @@
 |어떻해|어떻게해|
 
 # Result
+![train_result](result2.PNG)
 ![result](result.PNG)
 
 잘안나온다..
