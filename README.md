@@ -24,3 +24,6 @@
 데이터는 임의로 42개를 만들었는데 ..
 
 데이터수의 문제인가 ........ 
+
+# Reference 
+- [lstm-seq2seq-machine-translation](https://github.com/adilshagoo87/lstm-seq2seq-machine-translation)
