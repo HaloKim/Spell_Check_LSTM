@@ -15,5 +15,6 @@
 
 # Result
 ![result](result.PNG)
+
 잘안나온다..
 데이터는 임의로 42개를 만들었는데 .. 
