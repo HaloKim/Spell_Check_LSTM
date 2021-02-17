@@ -1,5 +1,7 @@
 # Spell_Check_LSTM
-맞춤법검사 with LSTM + seq2seq
+맞춤법검사 LSTM + seq2seq
+
+번역방식에 착안하여 간단한 문법교정기를 만들어보았다.
 
 # Environment
 1. Google Colab
